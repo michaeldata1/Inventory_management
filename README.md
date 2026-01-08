@@ -32,17 +32,3 @@ Refer to the SQL scripts in this repository for full table definitions, constrai
 
 ---
 
-## 🚀 Getting Started
-
-### Requirements
-
-- MySQL Server (8.x recommended) or compatible SQL environment  
-- A SQL client (MySQL Workbench, DBeaver, PopSQL, etc.)  
-
-### Setup
-
-1. Clone this repository:
-
-   ```sh
-   git clone https://github.com/michaeldata1/Inventory_management.git
-   cd Inventory_management
