@@ -1,6 +1,6 @@
 # Inventory Management SQL Project
 
-This repository contains a **SQL‑based Inventory Management system** designed to demonstrate database design, data manipulation, and business logic using MySQL. The project includes schema creation, sample data population, triggers, stored procedures, functions, and exploratory analysis queries — showcasing core SQL skills relevant for data analytics and database work.
+This repository contains a **SQL‑based Inventory Management system** designed to demonstrate database design, data manipulation, and business logic using MySQL. The project includes schema creation, sample data population, triggers, stored procedures, functions, and exploratory analysis queries, showcasing core SQL skills relevant for data analytics and database work.
 
 ---
 
